@@ -34,12 +34,15 @@ jupiter-lab
 
 ## Sample
 
-Maps of italy region with death count/ inhabitant
+### Maps of italy region with death count/ inhabitant
+
 ![image](https://user-images.githubusercontent.com/6942680/148840058-7561590a-b739-43c6-bf35-453712263283.png)
 
-Maps of italy city with death count
+### Maps of italy city with death count
+
 ![image](https://user-images.githubusercontent.com/6942680/148840122-5084ba35-61ba-4f12-9e7b-990bb24ef0e6.png)
 
-Maps of death count over time
+### Maps of death count over time
+
 ![image](https://user-images.githubusercontent.com/6942680/148840238-5e60a0e8-7d67-49f6-8293-108df714591d.png)
 
